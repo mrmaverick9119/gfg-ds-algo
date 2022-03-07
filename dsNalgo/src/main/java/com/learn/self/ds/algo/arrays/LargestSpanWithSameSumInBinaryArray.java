@@ -18,7 +18,7 @@ package com.learn.self.ds.algo.arrays;
 
 */
 
-public class ArraysExcercise1 {
+public class LargestSpanWithSameSumInBinaryArray {
 
     static int []arr1 = new int[]{0,1,1,0,1,1,0};
     static int []arr2 = new int[]{1,0,1,0,0,0,0};
